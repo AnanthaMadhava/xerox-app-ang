@@ -89,6 +89,7 @@ import 'core-js/modules/es.array.iterator';
 import 'core-js/modules/es.object.to-string';
 import 'core-js/modules/es.set';
 import 'core-js/modules/es.array.of';
+import 'core-js/features/object/entries';
 
 import 'regenerator-runtime/runtime';
 
