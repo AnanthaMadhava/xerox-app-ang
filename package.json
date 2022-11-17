@@ -18,13 +18,16 @@
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@angular/router": "^14.2.0",
+    "classlist.js": "^1.1.20150312",
     "core-js": "^3.26.1",
     "es6-promise": "^4.2.8",
+    "intl": "^1.2.5",
     "isomorphic-fetch": "^3.0.0",
     "promise-polyfill": "^8.2.3",
     "regenerator-runtime": "^0.13.10",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
+    "web-animations-js": "^2.3.2",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
