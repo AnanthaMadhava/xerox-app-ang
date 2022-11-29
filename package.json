@@ -10,6 +10,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-builders/custom-webpack": "^14.1.0",
     "@angular/animations": "^14.2.0",
     "@angular/common": "^14.2.0",
     "@angular/compiler": "^14.2.0",
@@ -23,6 +24,7 @@
     "es6-promise": "^4.2.8",
     "intl": "^1.2.5",
     "isomorphic-fetch": "^3.0.0",
+    "package": "^1.0.1",
     "promise-polyfill": "^8.2.3",
     "regenerator-runtime": "^0.13.10",
     "rxjs": "~7.5.0",
